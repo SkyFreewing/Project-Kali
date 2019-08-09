@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "HoudiniNiagara",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor",
